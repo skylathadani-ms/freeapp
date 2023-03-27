@@ -23,7 +23,7 @@ function App() {
           <a href="/.auth/login/aad">Login to Azure AD</a>
             </p>
            <p>
-          <a href="/.auth/login/twitterb">Login to twitter</a>
+          <a href="/.auth/login/twitter">Login to twitter</a>
           </p>
         </a>
       </header>
