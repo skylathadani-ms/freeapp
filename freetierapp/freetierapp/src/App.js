@@ -16,9 +16,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <a href="/.auth/login/github">Login to github</a>
+          <a href="/.auth/login/github">Login to Azure AD</a>
+          <a href="/.auth/login/github">Login to twitter</a>
         </a>
       </header>
-      <a href="/.auth/login/github">Login</a>
     </div>
   );
 }
