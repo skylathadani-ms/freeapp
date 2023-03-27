@@ -20,10 +20,10 @@ function App() {
           <a href="/.auth/login/github">Login to github</a>
             </p>
             <p>
-          <a href="/.auth/login/github">Login to Azure AD</a>
+          <a href="/.auth/login/aad">Login to Azure AD</a>
             </p>
            <p>
-          <a href="/.auth/login/github">Login to twitter</a>
+          <a href="/.auth/login/twitterb">Login to twitter</a>
           </p>
         </a>
       </header>
